@@ -1,0 +1,24 @@
+7 Island
+4 Unclaimed Territory
+4 Forest
+4 Botanical Sanctum
+3 Hashep Oasis
+2 Unsummon
+2 Essence Scatter
+4 Silvergill Adept
+4 Mist-Cloaked Herald
+4 Metallic Mimic
+4 Merfolk Mistbinder
+4 Kumena, Tyrant of Orazca
+4 Kumena's Speaker
+4 Jungleborn Pioneer
+4 Deeproot Elite
+2 Seafloor Oracle
+Sideboard
+4 Negate
+3 Naturalize
+1 Life Goes On
+2 Admiral's Order
+2 Tempest Caller
+2 Deathgorge Scavenger
+1 Essence Scatter

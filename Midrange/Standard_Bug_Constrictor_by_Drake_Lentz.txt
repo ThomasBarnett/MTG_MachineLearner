@@ -1,0 +1,28 @@
+4 Aether Hub
+4 Botanical Sanctum
+4 Blooming Marsh
+3 Forest
+1 Swamp
+1 The Scarab God
+2 Verdurous Gearhulk
+2 Blossoming Defense
+1 Ifnir Deadlands
+2 Hashep Oasis
+2 Foul Orchard
+3 Fetid Pools
+2 Vraska's Contempt
+2 Fatal Push
+3 Hadana's Climb
+4 Walking Ballista
+4 Servant of the Conduit
+4 Glint-Sleeve Siphoner
+4 Winding Constrictor
+4 Bristling Hydra
+4 Jadelight Ranger
+Sideboard
+3 Duress
+3 Negate
+2 Cartouche of Ambition
+3 Thrashing Brontodon
+2 Vraska's Contempt
+2 Fatal Push

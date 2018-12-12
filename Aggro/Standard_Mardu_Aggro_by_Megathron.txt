@@ -1,0 +1,27 @@
+1 Aethersphere Harvester
+2 Chandra, Torch of Defiance
+4 Unlicensed Disintegration
+4 Fatal Push
+4 Heart of Kiran
+1 Pia Nalaar
+2 Hazoret the Fervent
+2 Glory-Bound Initiate
+4 Bomat Courier
+4 Ruin Raider
+4 Scrapheap Scrounger
+4 Toolcraft Exemplar
+2 Swamp
+3 Canyon Slough
+3 Plains
+4 Aether Hub
+4 Concealed Courtyard
+4 Inspiring Vantage
+4 Spire of Industry
+Sideboard
+1 Skysovereign, Consul Flagship
+2 Sunscourge Champion
+2 Abrade
+4 Duress
+2 Magma Spray
+2 Glorybringer
+2 Aethersphere Harvester

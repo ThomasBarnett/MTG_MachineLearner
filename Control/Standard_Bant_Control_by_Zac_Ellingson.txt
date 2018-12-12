@@ -1,0 +1,33 @@
+1 Arch of Orazca
+1 Forest
+1 Plains
+4 Hinterland Harbor
+3 Sunpetal Grove
+4 Island
+4 Scattered Groves
+1 Lyra Dawnbringer
+3 Seal Away
+2 Syncopate
+1 Search for Azcanta
+3 Supreme Will
+4 Disallow
+4 Cast Out
+4 Glimmer of Genius
+3 Settle the Wreckage
+2 Fumigate
+1 Commit / Memory
+1 Approach of the Second Sun
+2 Gideon of the Trials
+3 Teferi, Hero of Dominaria
+4 Irrigated Farmland
+4 Glacial Fortress
+Sideboard
+1 Nezahal, Primal Tide
+2 Carnage Tyrant
+2 Regal Caracal
+2 Cataclysmic Gearhulk
+2 Shalai, Voice of Plenty
+2 Invoke the Divine
+2 Sorcerous Spyglass
+1 Lyra Dawnbringer
+1 Settle the Wreckage

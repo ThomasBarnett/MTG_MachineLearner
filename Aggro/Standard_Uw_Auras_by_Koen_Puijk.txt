@@ -1,0 +1,24 @@
+6 Island
+5 Plains
+2 Shefet Dunes
+4 Glacial Fortress
+4 Cartouche of Solidarity
+4 Curious Obsession
+4 One With the Wind
+2 Dive Down
+4 Adanto Vanguard
+4 Sram, Senior Edificer
+4 Legion's Landing
+2 Adorned Pouncer
+3 Siren Stormtamer
+4 Sacred Cat
+4 Irrigated Farmland
+4 Cartouche of Knowledge
+Sideboard
+2 Fragmentize
+2 Dive Down
+2 Spell Pierce
+3 Negate
+3 Baffling End
+1 Squire's Devotion
+2 Thopter Arrest

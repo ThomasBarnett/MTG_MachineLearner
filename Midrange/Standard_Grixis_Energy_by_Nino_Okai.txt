@@ -1,0 +1,30 @@
+1 Abrade
+2 Essence Scatter
+2 Supreme Will
+3 Fatal Push
+3 Vraska's Contempt
+4 Harnessed Lightning
+1 Hostage Taker
+2 Torrential Gearhulk
+2 The Scarab God
+3 Glorybringer
+3 Rekindling Phoenix
+4 Whirler Virtuoso
+4 Glint-Sleeve Siphoner
+1 Canyon Slough
+1 Island
+3 Swamp
+3 Mountain
+3 Dragonskull Summit
+3 Drowned Catacomb
+4 Spirebluff Canal
+4 Aether Hub
+4 Fetid Pools
+Sideboard
+2 Confiscation Coup
+1 Nicol Bolas, God-Pharaoh
+2 Hour of Devastation
+2 Chandra's Defeat
+2 Magma Spray
+3 Negate
+3 Duress

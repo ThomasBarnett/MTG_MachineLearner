@@ -1,0 +1,33 @@
+3 Island
+1 Field of Ruin
+2 Aether Hub
+3 Irrigated Farmland
+2 Plains
+3 Fetid Pools
+4 Concealed Courtyard
+4 Glacial Fortress
+2 Vraska's Contempt
+1 Hieroglyphic Illumination
+3 Glimmer of Genius
+3 Settle the Wreckage
+1 Torrential Gearhulk
+1 Cast Out
+4 Censor
+2 Fumigate
+2 Essence Scatter
+3 Supreme Will
+3 Approach of the Second Sun
+4 Fatal Push
+2 Search for Azcanta
+4 Drowned Catacomb
+3 Disallow
+Sideboard
+3 Negate
+2 Duress
+1 Gonti, Lord of Luxury
+2 The Scarab God
+1 Regal Caracal
+2 Essence Extraction
+1 Vraska's Contempt
+2 Torrential Gearhulk
+1 Cast Out

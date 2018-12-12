@@ -1,0 +1,28 @@
+2 Spell Pierce
+4 Fatal Push
+4 Treasure Map
+3 Tezzeret the Schemer
+3 Karn, Scion of Urza
+3 Marionette Master
+3 Walking Ballista
+7 Swamp
+7 Island
+3 Field of Ruin
+4 Fetid Pools
+4 Drowned Catacomb
+2 Spell Swindle
+3 Vraska's Contempt
+3 Supreme Will
+1 Bontu's Last Reckoning
+4 Censor
+Sideboard
+2 Torrential Gearhulk
+1 The Scarab God
+1 Sorcerous Spyglass
+2 Negate
+2 Golden Demise
+2 Duress
+1 Dispossess
+1 Arguel's Blood Fast
+1 Vraska's Contempt
+2 Bontu's Last Reckoning
